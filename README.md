@@ -19,4 +19,4 @@ UserNotifications
 
 Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en: Correo electrónico: youremail@example.com
+Si tienes alguna pregunta o comentario, puedes contactar con el desarrollador a través de la sección de issues de GitHub.
